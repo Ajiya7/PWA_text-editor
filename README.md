@@ -53,7 +53,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Screenshots
 
-
+![](./assets/images/Screenshot%202023-02-23%20at%2010.11.37%20PM.png)
 
 ## Contact Me
 
@@ -66,4 +66,4 @@ THEN I should have proper build scripts for a webpack application
 
 ### Link to repo: https://github.com/Ajiya7/Social_Network_API
 
-### Link to deployed apllication: 
+### Link to deployed apllication: https://fierce-woodland-05780.herokuapp.com/
